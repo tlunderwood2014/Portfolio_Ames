@@ -2,11 +2,10 @@
 
 ## Table of Contents
 
-[Problem Statement](https://github.com/tlunderwood2014/Portfolio_Ames/tree/master/Portfolio_Ames#problem-statement)
-=======
-[Problem Statement](https://github.com/tlunderwood2014/Portfolio_Ames/README/#Problem-Statement)
+- [Problem Statement](https://github.com/tlunderwood2014/Portfolio_Ames/tree/master/Portfolio_Ames#problem-statement-1)
 
-[Data Dictionary](https://github.com/tlunderwood2014/Portfolio_Ames/README/#Data-Dictionary)
+
+- [Data Dictionary](https://github.com/tlunderwood2014/Portfolio_Ames/README/#Data-Dictionary)
 
 
 ## Problem Statement:
