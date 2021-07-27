@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[Problem Statement](https://github.com/tlunderwood2014/Portfolio_Ames/README/#Problem-Statement)
+[Problem Statement](https://github.com/tlunderwood2014/Portfolio_Ames/tree/master/Portfolio_Ames#problem-statement)
 [Data Dictionary](https://github.com/tlunderwood2014/Portfolio_Ames/README/#Data-Dictionary)
 
 
