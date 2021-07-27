@@ -1,6 +1,6 @@
 # Ames Real Estate Analysis
 
-##Table of Contents
+## Table of Contents
 
 [Problem Statement](https://github.com/tlunderwood2014/Portfolio_Ames/README/#Problem-Statement)
 [Data Dictionary](https://github.com/tlunderwood2014/Portfolio_Ames/README/#Data-Dictionary)
@@ -9,10 +9,15 @@
 ## Problem Statement:
 Investor A is interested in buying investment properties in Ames, Iowa. Their goal is to buy, renovate and resale these properties. In order to successful understand the housing market in Ames, they want to know which features will increase their profit margin.  A regression model will be created to understand the relationship between the features and the property value.
 
-https://github.com/tlunderwood2014/Portfolio_Ames/README
+## Summary
+
+
+#### Data Source:
 
 
 ## Data Dictionary:
+ 
+
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -97,11 +102,31 @@ https://github.com/tlunderwood2014/Portfolio_Ames/README
 |Yr Sold|int64|Ames Iowa Housing Dataset|Year Sold (YYYY)|
 |Sale Type|object|Ames Iowa Housing Dataset|Type of sale|
 |SalePrice|int64|Ames Iowa Housing Dataset|Sale price $$|
+|--------|-----|------|------|
 
-**Citation : Joe Rosenblum helped with the data dictionary**
+Citation : Joe Rosenblum helped with the data dictionary
+
+## Software Requirements/Packages Used
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- sklearn
+- tensorflow
+- keras
+
+## Exploratory Data Analysis
+
+
+## Modeling
+
+
+
 
 ## Conclusion/ Limitations:
 Five Neighborhood to consider: Stone Brook, Northridge Heights, Crawford, Timberland, and Veenker
 Maximize Profit features :  Fireplaces, Overall house quality,  Northridge Neighbor, Full bath in basement
 Features to avoid: Not having a  fireplace, Exterior upgrades, Normal Kitchen quality, Unfinished Garages, as years increase prices decrease
+
+
 
